@@ -1,4 +1,4 @@
-# analiseVinhos
+# Análise Vinhos
 Esse repositório trata-se de uma análise e construção de um modelo de predição sobre qualidade de vinhos
 
 A. Como foi a definição da sua estratégia de modelagem?
